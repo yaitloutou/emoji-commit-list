@@ -1,7 +1,7 @@
 # commit type | emoji
 
 
-## the list
+## :scroll: the list
 
 Commit Type | Emoji | Emoji code | Description
 ---  | --- | --- | ---
