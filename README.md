@@ -4,7 +4,7 @@
 ## the list
 
 Commit Type | Emoji | Emoji code | Description
----  | --- | ---
+---  | --- | --- | ---
 bugfix | :ambulance: | `:ambulance:` | Bug fix  
 dev | :bangbang: | `:bangbang:` | DEV Certified (No QA Needed)
 doc | :books: | `:books:` | Documentation  
