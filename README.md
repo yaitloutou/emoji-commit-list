@@ -29,3 +29,16 @@ tooling | :wrench: | `:wrench:` | Tooling
 upgrad | :arrow_up: | `:arrow_up:` | upgrading a module / component
 version | :checkered_flag: | `:checkered_flag:` | bumping version number
 wip | :construction: | `:construction:` | Work in Progress
+
+
+## :sunglasses: cool stuff
+
+* [emoji-cheat-sheet](http://www.webpagefx.com/tools/emoji-cheat-sheet/) : emoji list
+* http://emojifinder.com/ : emoji finder
+* :octocat: [akatopo/GithubEmoji](https://github.com/akatopo/GithubEmoji) : Github emoji in markdown documents and commit messages for Sublime Text 3
+
+## :raising_hand: credit
+
+* :octocat: [dannyfritz/commit-message-emoji](https://github.com/dannyfritz/commit-message-emoji)
+* :octocat: [ericduran/commit-emoji](https://github.com/ericduran/commit-emoji)
+ 
