@@ -18,7 +18,7 @@ log- | :speak_no_evil: | reducing logging
 log+ | :flashlight: | adding logging
 memory | :non-potable_water: | plugging memory leaks
 meta | :card_index: | Metadata  
-performance | :rocket: | Performance  
+performance | :rocket: | Improve performance  
 prettify | :lipstick: | improving the format/structure of the code
 readme | :memo: | edit/update README
 refactoring | :package: | Refactoring  
